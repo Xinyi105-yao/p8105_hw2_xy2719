@@ -1,0 +1,7 @@
+---
+title: "p8101_hw2_xy2719"
+author: "Yao"
+date: "2025-10-02"
+output: github_document
+---
+
